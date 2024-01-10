@@ -8,9 +8,9 @@
 --------------------------------------------------------------
 |                          Home Page                          |
 --------------------------------------------------------------
-| Total Products: 150 | Total Categories: 10                  
-| Recent Items:                                               
-| Item 1 Item 2 Item 3                                        
+Total Products: 150 | Total Categories: 10                  
+Recent Items:                                               
+Item 1 Item 2 Item 3                                        
 --------------------------------------------------------------
 
 --------------------------------------------------------------
@@ -18,13 +18,13 @@
 --------------------------------------------------------------
 | Product List:                                              |
 | ---------------------------------------------------------- |
-| | ID | Name           | Quantity | Category | Actions       |
-| |----|----------------|----------|----------|---------------|
-| | 1  | Product A      | 50       | Category1| Edit | Delete |
-| | 2  | Product B      | 30       | Category2| Edit | Delete |
-| | 3  | Product C      | 20       | Category1| Edit | Delete |
-| | 4  | Product D      | 10       | Category3| Edit | Delete |
-| |    |                |          |          |      |        |
+|  ID | Name           | Quantity | Category | Actions       |
+| ----|----------------|----------|----------|---------------|
+|  1  | Product A      | 50       | Category1| Edit  Delete 
+|  2  | Product B      | 30       | Category2| Edit  Delete 
+|  3  | Product C      | 20       | Category1| Edit  Delete 
+|  4  | Product D      | 10       | Category3| Edit  Delete 
+
 | ----------------------------------------------------------  |
 | Search:   Page: 1 2 3 4                                     |
 --------------------------------------------------------------
@@ -32,11 +32,10 @@
 --------------------------------------------------------------
 |                   Add/Edit Product Form                     |
 --------------------------------------------------------------
-| Product Name:                                               
-| Quantity:                                                   
-| Category:                                                   
-|                                                             
-| Submit Cancel                                               
+Product Name:                                               
+Quantity:                                                   
+Category:                                                                                                                
+Submit       Cancel                                               
 --------------------------------------------------------------
 
 # Links:
